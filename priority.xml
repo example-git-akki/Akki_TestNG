@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/2129926/eclipse-workspace/DemoTestNG/src/test/java/DemoTestNGFeatures/DemoPriority.java">
+        <classes>
+            <class name="DemoTestNGFeatures.DemoPriority">
+                <methods>
+                    <include name="test1"/>
+                    <include name="step2"/>
+                    <include name="third3"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
