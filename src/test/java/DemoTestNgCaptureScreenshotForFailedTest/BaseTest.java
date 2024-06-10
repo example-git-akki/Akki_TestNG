@@ -14,8 +14,6 @@ import org.testng.annotations.BeforeTest;
 import java.io.File;
 import java.io.IOException;
 import java.time.Duration;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 
 public class BaseTest {
     WebDriver driver;
